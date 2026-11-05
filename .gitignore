@@ -1,0 +1,14 @@
+# 資料と生成物はリポジトリに入れない
+*.pdf
+*.PDF
+*.zip
+.venv/
+text/
+manifest.json
+failed.tsv
+index.db
+index.db.building
+vectors.f16
+vectors.json
+__pycache__/
+*.pyc
